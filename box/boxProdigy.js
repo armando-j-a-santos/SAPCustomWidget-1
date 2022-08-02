@@ -119,5 +119,5 @@
 		}
 	}
 	
-	customElements.define("com-demo-gauge1", BoxTTT);
+	customElements.define("com-custom-gauge1", BoxTTT);
 })();
