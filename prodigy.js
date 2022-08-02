@@ -4,8 +4,8 @@ template.innerHTML = `
 <style>
 :host {
 border-radius: 55px;
-border-width: 4px;
-border-color: yellow;
+border-width: 40px;
+border-color: red;
 border-style: solid;
 display: block;
 }
