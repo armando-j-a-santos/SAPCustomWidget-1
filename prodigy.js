@@ -11,7 +11,7 @@ display: block;
 }
 </style>
 `;
-class ColoredBox extends HTMLElement {
+class ColoredBox123 extends HTMLElement {
 constructor() {
 super();
 let shadowRoot = this.attachShadow({mode: "open"});
@@ -34,5 +34,5 @@ this.style["opacity"] = changedProperties["opacity"];
 }
 }
 }
-customElements.define("com-sap-sample-coloredbox1", ColoredBox);
+customElements.define("com-sap-sample-coloredbox1", ColoredBox123);
 })();
