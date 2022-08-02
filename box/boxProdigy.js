@@ -10,7 +10,7 @@
 			display: block;
 		} 
 		body {
-		  background: #fff;
+		  background: #fa8c84;
 		}
 		
 		.metric {
