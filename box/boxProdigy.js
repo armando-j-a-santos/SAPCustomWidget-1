@@ -55,7 +55,7 @@
 		</div>
 	`;
 
-	class BoxABC extends HTMLElement {
+	class BoxTTT extends HTMLElement {
 		constructor() {
 			super(); 
 			let shadowRoot = this.attachShadow({mode: "open"});
@@ -119,5 +119,5 @@
 		}
 	}
 	
-	customElements.define("com-demo-gauge", BoxABC);
+	customElements.define("com-demo-gauge", BoxTTT);
 })();
