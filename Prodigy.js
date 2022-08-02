@@ -121,3 +121,4 @@
 	
 	customElements.define("com-demo-prodigy", Prodigy);
 })();
+
