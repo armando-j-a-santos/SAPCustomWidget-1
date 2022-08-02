@@ -119,5 +119,5 @@
 		}
 	}
 	
-	customElements.define("com-demo-prodigy", Prodigy);
+	customElements.define("com-demo-prodigy", prodigy);
 })();
