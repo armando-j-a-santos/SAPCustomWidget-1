@@ -34,5 +34,5 @@ this.style["opacity"] = changedProperties["opacity"];
 }
 }
 }
-customElements.define("com-sap-sample-colored1", ColoredBox123);
+customElements.define("com-sap-sample-coloredbox", ColoredBox123);
 })();
