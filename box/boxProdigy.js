@@ -23,7 +23,7 @@
 		
 		.metric path {
 		  stroke-width: 75;
-		  stroke: #ecf0f1;
+		  stroke: #fa8c84;
 		  fill: none;
 		}
 		
@@ -36,7 +36,7 @@
 		}
 		
 		.metric.participation text {
-		  fill: #27ae60;
+		  fill: #fa8c84;
 		}		
 		</style>
 		
