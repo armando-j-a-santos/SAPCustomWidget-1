@@ -4,7 +4,7 @@
         <h1>Hello World - Armando Jorge A. Santos</h1>
     `;
 
-    customElements.define('com-sap-sample-helloworldArm', class HelloWorldArm extends HTMLElement {
+    customElements.define('com-sap-sample-Armando', class HelloWorldA extends HTMLElement {
 
 
 	constructor() {
