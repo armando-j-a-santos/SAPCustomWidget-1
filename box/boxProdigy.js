@@ -119,5 +119,5 @@
 		}
 	}
 	
-	customElements.define("com-demo-gauge1", BoxABC);
+	customElements.define("com-demo-gauge", BoxABC);
 })();
