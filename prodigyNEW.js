@@ -5,7 +5,7 @@ template.innerHTML = `
 :host {
 border-radius: 25px;
 border-width: 4px;
-border-color: black;
+border-color: yellow;
 border-style: solid;
 display: block;
 }
@@ -34,5 +34,5 @@ this.style["opacity"] = changedProperties["opacity"];
 }
 }
 }
-customElements.define("com-sap-sample-coloredbox", ColoredBox);
+customElements.define("com-sap-sample-coloredbox1", ColoredBox);
 })();
