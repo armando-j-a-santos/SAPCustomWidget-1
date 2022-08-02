@@ -4,7 +4,7 @@
 <h1>Hello World</h1>
     `;
 
-    customElements.define('com-sap-sample-armando', class WidgetTemplate extends HTMLElement {
+    customElements.define('com-sap-sample-helloworld1', class WidgetTemplate extends HTMLElement {
 
 
 		constructor() {
