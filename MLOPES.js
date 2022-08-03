@@ -1,10 +1,10 @@
 (function()  {
     let tmpl = document.createElement('template');
     tmpl.innerHTML = `
-        <h1>Hello World   - MILTON LOPES</h1>
+        <h1>Hello World - MILTON LOPES</h1>
     `;
 
-    customElements.define('com-demo-miltons', class HelloWorld extends HTMLElement {
+    customElements.define('com-demo-miltons1', class HelloWorld extends HTMLElement {
 
 
 		constructor() {
